@@ -37,3 +37,6 @@ void PrintArray(string[] array)
 }
 ArraySecondAfterCheck(array1, array2);
 PrintArray(array2);
+
+// Алгорим решения задачи
+// 
